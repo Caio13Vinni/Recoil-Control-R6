@@ -1,4 +1,4 @@
-# NoRecoil - Rainbow Six Siege Recoil Compensation Tool
+# No Recoil - Rainbow Six Siege Recoil Compensation Tool
 
 <div align="center">
   
